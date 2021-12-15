@@ -4,6 +4,8 @@
 <!-- [START badges] -->
 [![API-Level](https://img.shields.io/badge/API-14%2B-orange.svg)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ChromeLikeTabSwitcher-brightgreen.svg?style=true)](https://android-arsenal.com/details/1/5654)
 
+<img src="https://img.shields.io/badge/-Google-yellow?style=for-the-badge"><img src="https://img.shields.io/badge/-Google-yellow?style=for-the-badge">
+
 > The program has been developed by investors for investors based on selenium and chromium.
 Analytics is implemented by using API of one of the popular sites for analytics. All tools are protected by copyright and belong to LLK
 TsSG analysts. 
