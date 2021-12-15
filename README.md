@@ -64,9 +64,9 @@ This project exists thanks to all the people who contribute.
 
 <img src="https://opencollective.com/tabler/contributors.svg?width=890&button=false" />
 
-## Pelican Backers
+## Tradeblock Backers
 
-Support this project by becoming a Pelican.
+Support this project by becoming a Tradeblock.
 
 <a href="https://opencollective.com/bootstrap-table/backer/0/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/bootstrap-table/backer/1/website" target="_blank"><img src="https://opencollective.com/bootstrap-table/backer/1/avatar.svg"></a>
