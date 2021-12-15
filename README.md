@@ -14,7 +14,7 @@ TsSG analysts.
 
 ###### What can I do?
 
-Most tasks for work with cryptocurrencies is implemented through Pelican.
+Most tasks for work with cryptocurrencies is implemented through Tradeblock.
 
 - Consolidated API's, historical trade and order book data, advanced indexes, and customizable algorithms.
 - Automatic purchase currency
